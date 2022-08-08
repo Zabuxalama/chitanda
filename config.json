@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["628565337357@s.whatsapp.net"],
+  "ownerName": ["Awy_"],
+  "botName": "Miaw",
+  "sessionName": "miaw",
+  "pathimg": "./media/miaw.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 999,
+	"user": 15
+  }
+}
